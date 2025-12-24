@@ -1,4 +1,4 @@
-from preprocessing import load_and_preprocess
+from src.preprocessing import load_and_preprocess
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.linear_model import LogisticRegression
